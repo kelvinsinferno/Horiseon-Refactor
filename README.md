@@ -15,4 +15,4 @@ I have:
 ![image](https://user-images.githubusercontent.com/24360333/155862733-bf1692fa-68ec-419f-9085-ac8fe716f1c7.png)
 
 
-Original code provided through "DU-VIRT-FSF-PT-0202--2-ULOL" Denver University
+Original code provided through Denver University
