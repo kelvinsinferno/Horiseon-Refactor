@@ -2,7 +2,11 @@
 ## Week 1 Homework
 01 HTML, CSS, and Git: Code Refactor
 
+##Repository
 https://github.com/kelvinsinferno/Horiseon-Refactor
+
+##Deployed site:
+https://kelvinsinferno.github.io/Horiseon-Refactor/
 
 The Horieson website focuses on SEO, Online Reputation Management, and Social Media Marketing.
 We were asked to refactor the code so that it met accessibility standards. 
